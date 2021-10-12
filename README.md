@@ -41,7 +41,7 @@ The [challenge](https://www.frontendpractice.com/project/ableton) was to build a
 
 - [x] User story: Recreate the layout
 - [x] User story: Try building the mega-menu that appears when you click "More +" in the main menu.
-- [] User story: Is it responsive on mobile? Make the 2nd menu bar sticky on scroll. (*Very* Subtle On real site)
+- [ ] User story: Is it responsive on mobile? Make the 2nd menu bar sticky on scroll. (*Very* Subtle On real site)
 
 ## Useful Resources
 
